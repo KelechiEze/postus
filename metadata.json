@@ -1,0 +1,6 @@
+{
+  "name": "Pyxel AI - Neural Studio for Next-Gen Creators",
+  "description": "Create beyond human imagination. Premium visual asset generation, texture synthesis, and automated design workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
